@@ -1,0 +1,14 @@
+/Users/pedro/Desktop/Curso C#/Primeiras aulas/ProjetoAulas/bin/Debug/net8.0/ProjetoAulas
+/Users/pedro/Desktop/Curso C#/Primeiras aulas/ProjetoAulas/bin/Debug/net8.0/ProjetoAulas.deps.json
+/Users/pedro/Desktop/Curso C#/Primeiras aulas/ProjetoAulas/bin/Debug/net8.0/ProjetoAulas.runtimeconfig.json
+/Users/pedro/Desktop/Curso C#/Primeiras aulas/ProjetoAulas/bin/Debug/net8.0/ProjetoAulas.dll
+/Users/pedro/Desktop/Curso C#/Primeiras aulas/ProjetoAulas/bin/Debug/net8.0/ProjetoAulas.pdb
+/Users/pedro/Desktop/Curso C#/Primeiras aulas/ProjetoAulas/obj/Debug/net8.0/ProjetoAulas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedro/Desktop/Curso C#/Primeiras aulas/ProjetoAulas/obj/Debug/net8.0/ProjetoAulas.AssemblyInfoInputs.cache
+/Users/pedro/Desktop/Curso C#/Primeiras aulas/ProjetoAulas/obj/Debug/net8.0/ProjetoAulas.AssemblyInfo.cs
+/Users/pedro/Desktop/Curso C#/Primeiras aulas/ProjetoAulas/obj/Debug/net8.0/ProjetoAulas.csproj.CoreCompileInputs.cache
+/Users/pedro/Desktop/Curso C#/Primeiras aulas/ProjetoAulas/obj/Debug/net8.0/ProjetoAulas.dll
+/Users/pedro/Desktop/Curso C#/Primeiras aulas/ProjetoAulas/obj/Debug/net8.0/refint/ProjetoAulas.dll
+/Users/pedro/Desktop/Curso C#/Primeiras aulas/ProjetoAulas/obj/Debug/net8.0/ProjetoAulas.pdb
+/Users/pedro/Desktop/Curso C#/Primeiras aulas/ProjetoAulas/obj/Debug/net8.0/ProjetoAulas.genruntimeconfig.cache
+/Users/pedro/Desktop/Curso C#/Primeiras aulas/ProjetoAulas/obj/Debug/net8.0/ref/ProjetoAulas.dll

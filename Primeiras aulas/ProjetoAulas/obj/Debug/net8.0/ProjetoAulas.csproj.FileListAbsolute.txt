@@ -12,3 +12,18 @@
 /Users/pedro/Desktop/Curso C#/Primeiras aulas/ProjetoAulas/obj/Debug/net8.0/ProjetoAulas.pdb
 /Users/pedro/Desktop/Curso C#/Primeiras aulas/ProjetoAulas/obj/Debug/net8.0/ProjetoAulas.genruntimeconfig.cache
 /Users/pedro/Desktop/Curso C#/Primeiras aulas/ProjetoAulas/obj/Debug/net8.0/ref/ProjetoAulas.dll
+C:\Users\pedro.freire.ADUANEIRAS\Documents\C#\CursoCSharp\Primeiras aulas\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.exe
+C:\Users\pedro.freire.ADUANEIRAS\Documents\C#\CursoCSharp\Primeiras aulas\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.deps.json
+C:\Users\pedro.freire.ADUANEIRAS\Documents\C#\CursoCSharp\Primeiras aulas\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.runtimeconfig.json
+C:\Users\pedro.freire.ADUANEIRAS\Documents\C#\CursoCSharp\Primeiras aulas\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.dll
+C:\Users\pedro.freire.ADUANEIRAS\Documents\C#\CursoCSharp\Primeiras aulas\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.pdb
+C:\Users\pedro.freire.ADUANEIRAS\Documents\C#\CursoCSharp\Primeiras aulas\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.freire.ADUANEIRAS\Documents\C#\CursoCSharp\Primeiras aulas\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.AssemblyInfoInputs.cache
+C:\Users\pedro.freire.ADUANEIRAS\Documents\C#\CursoCSharp\Primeiras aulas\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.AssemblyInfo.cs
+C:\Users\pedro.freire.ADUANEIRAS\Documents\C#\CursoCSharp\Primeiras aulas\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.csproj.CoreCompileInputs.cache
+C:\Users\pedro.freire.ADUANEIRAS\Documents\C#\CursoCSharp\Primeiras aulas\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.sourcelink.json
+C:\Users\pedro.freire.ADUANEIRAS\Documents\C#\CursoCSharp\Primeiras aulas\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.dll
+C:\Users\pedro.freire.ADUANEIRAS\Documents\C#\CursoCSharp\Primeiras aulas\ProjetoAulas\obj\Debug\net8.0\refint\ProjetoAulas.dll
+C:\Users\pedro.freire.ADUANEIRAS\Documents\C#\CursoCSharp\Primeiras aulas\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.pdb
+C:\Users\pedro.freire.ADUANEIRAS\Documents\C#\CursoCSharp\Primeiras aulas\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.genruntimeconfig.cache
+C:\Users\pedro.freire.ADUANEIRAS\Documents\C#\CursoCSharp\Primeiras aulas\ProjetoAulas\obj\Debug\net8.0\ref\ProjetoAulas.dll

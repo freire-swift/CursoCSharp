@@ -14,6 +14,8 @@
 // const string descricao = "Curso C#";
 // Console.WriteLine(descricao);
 
+using System.Collections;
+
 var numero1 = 1;
 var numero2 = 2;
 
@@ -56,6 +58,64 @@ var numero2 = 2;
 // var valido3 = !(numero2 > 10);
 // Console.WriteLine(valido3);
 
-bool ativo = true;
-string status = !ativo ? "Cadastro Ativo" : "Cadastro inativo";
-Console.WriteLine(status);
+// bool ativo = true;
+// string status = !ativo ? "Cadastro Ativo" : "Cadastro inativo";
+// Console.WriteLine(status);
+
+// var nome = NomeCompleto();
+// var soma = SomaValores();
+
+// Console.WriteLine(nome);
+// Console.WriteLine(soma);
+
+// void EscreverNome()
+// {
+//     Console.WriteLine(nome);
+//     Console.WriteLine(soma);
+
+// }
+
+// string NomeCompleto() 
+// {
+//     string primeiroNome = "Pedro";
+//     string segundoNome = "Freire";
+
+//     return primeiroNome + " " + segundoNome;
+// }
+
+// int SomaValores()
+// {
+//     return 8 + 2;
+// }
+
+// int SomaValores(int a, int b)
+// {
+//     return a + b;
+// }
+
+// var soma = SomaValores(3, 5);
+// Console.WriteLine(soma);
+
+// var nome = NomeEIdade("Rafael", 33);
+// Console.WriteLine(nome);
+
+// string NomeEIdade(string nome, int idade)
+// {
+//     return "Meu nome é "+ nome +" e tenho a seguinte idade: " + idade;
+// }
+
+var arrayList = new ArrayList();
+arrayList.Add(1);
+arrayList.Add("Pedro");
+arrayList.Add(false);
+
+Console.WriteLine(arrayList[1]);
+
+arrayList.RemoveAt(1);
+
+arrayList.Clear();
+
+foreach(var item in arrayList)
+{
+    Console.WriteLine(item);
+}
